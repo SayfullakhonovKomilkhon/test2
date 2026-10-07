@@ -1,0 +1,6 @@
+{
+  "name": "AI Quiz",
+  "description": "Интерактивное веб-приложение для создания и прохождения тестов с помощью искусственного интеллекта на любую тему.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
